@@ -17,4 +17,4 @@ Disallow: /*.php
 Disallow: /*?replytocom
 Disallow: /*?turl
 
-Sitemap: https://smile-dental-club.xyz/sitemap_index.xml
+Sitemap: https://www.parodent-dental-club.com/sitemap_index.xml

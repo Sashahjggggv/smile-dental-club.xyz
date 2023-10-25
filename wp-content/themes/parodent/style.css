@@ -1,0 +1,41 @@
+/*
+Theme Name: parodent
+Text Domain: parodent
+Version: 1.1
+*/
+.wpcf7-not-valid-tip{
+	font-size: 10px;
+    line-height: 1.2em;
+    padding-top: 5px;
+    color: var(--clr-error);
+}
+.wpcf7-not-valid{
+	border-color: var(--clr-error) !important;
+}
+.error_message_register{
+	color: red;
+    font-size: 16px;
+    margin-top: -20px;
+}
+.message_success{
+	color: green;
+    font-size: 16px;
+    margin-top: -20px;
+}
+.register_popup{
+	display: none;
+}
+.register_popup.user_not_login{
+	display: block;
+}
+/*.buy_webinar.user_login{
+	display: block;
+}*/
+.hidden{
+	display: none;
+}
+@media (max-width: 767px) {
+	body.home .courses-list-info {
+	    margin-top: 20px;
+	}
+}
