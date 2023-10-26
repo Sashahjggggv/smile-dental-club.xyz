@@ -11,10 +11,10 @@
 			<head>
 				<xsl:choose>
 					<xsl:when test="kml:kml">
-						<title>Розташування Sitemap - Parodent</title>
+						<title>Розташування Sitemap - Smile</title>
 					</xsl:when>
 					<xsl:otherwise>
-						<title>XML Sitemap - Parodent</title>
+						<title>XML Sitemap - Smile</title>
 					</xsl:otherwise>
 				</xsl:choose>
 				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
