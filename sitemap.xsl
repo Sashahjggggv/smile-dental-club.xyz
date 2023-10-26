@@ -1,23 +1,7 @@
 <!DOCTYPE html>
 <html lang="uk" prefix="og: https://ogp.me/ns#">
 <head>
-	<!-- Google tag (gtag.js) -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-GPSWVJKEVL"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-
-		gtag('config', 'G-GPSWVJKEVL');
-	</script>
-	<!-- Google tag (gtag.js) -->
-	<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-250890967-1"></script>
-	<script>
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-	gtag('config', 'UA-250890967-1');
-	</script> -->
+	
 
 	<meta charset="UTF-8">
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -31,9 +15,9 @@
 <meta name="robots" content="index, follow"/>
 <meta property="og:locale" content="uk_UA" />
 <meta property="og:type" content="website" />
-<meta property="og:site_name" content="Parodent Dental Club" />
+<meta property="og:site_name" content="Smile Dental Club" />
 <meta name="twitter:card" content="summary_large_image" />
-<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://smile-dental-club.xyz/#organization","name":"Parodent Dental Club","url":"https://smile-dental-club.xyz","logo":{"@type":"ImageObject","@id":"https://smile-dental-club.xyz/#logo","url":"http://smile-dental-club.xyz/wp-content/uploads/2022/12/logo.png","contentUrl":"http://smile-dental-club.xyz/wp-content/uploads/2022/12/logo.png","caption":"Parodent Dental Club","inLanguage":"uk","width":"230","height":"48"}},{"@type":"WebSite","@id":"https://smile-dental-club.xyz/#website","url":"https://smile-dental-club.xyz","name":"Parodent Dental Club","publisher":{"@id":"https://smile-dental-club.xyz/#organization"},"inLanguage":"uk"},{"@type":"BreadcrumbList","@id":"#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://smile-dental-club.xyz","name":"\u0413\u043e\u043b\u043e\u0432\u043d\u0430"}}]},{"@type":"CollectionPage","@id":"#webpage","url":"","isPartOf":{"@id":"https://smile-dental-club.xyz/#website"},"inLanguage":"uk","breadcrumb":{"@id":"#breadcrumb"}}]}</script>
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://smile-dental-club.xyz/#organization","name":"Smile Dental Club","url":"https://smile-dental-club.xyz","logo":{"@type":"ImageObject","@id":"https://smile-dental-club.xyz/#logo","url":"http://smile-dental-club.xyz/wp-content/uploads/2022/12/logo.png","contentUrl":"http://smile-dental-club.xyz/wp-content/uploads/2022/12/logo.png","caption":"Smile Dental Club","inLanguage":"uk","width":"230","height":"48"}},{"@type":"WebSite","@id":"https://smile-dental-club.xyz/#website","url":"https://smile-dental-club.xyz","name":"Smile Dental Club","publisher":{"@id":"https://smile-dental-club.xyz/#organization"},"inLanguage":"uk"},{"@type":"BreadcrumbList","@id":"#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://smile-dental-club.xyz","name":"\u0413\u043e\u043b\u043e\u0432\u043d\u0430"}}]},{"@type":"CollectionPage","@id":"#webpage","url":"","isPartOf":{"@id":"https://smile-dental-club.xyz/#website"},"inLanguage":"uk","breadcrumb":{"@id":"#breadcrumb"}}]}</script>
 <!-- /Плагін Rank Math WordPress SEO -->
 
 <script type="text/javascript">
@@ -185,7 +169,7 @@ var _ckyStyles = {"css":".cky-overlay{background: #000000; opacity: 0.4; positio
 											<img src="https://smile-dental-club.xyz/wp-content/themes/parodent/assets/img/icons/mail.svg" alt="mail">
 										</div>
 										<div class="contact-list-info">
-																							<a href="mailto:parodent.dental.club@gmail.com">parodent.dental.club@gmail.com</a>
+																							<a href="mailto:info@smile-dental-club.xyz">info@smile-dental-club.xyz</a>
 																					</div>
 									</div>
 																	<div class="contact-list-item">
@@ -214,8 +198,8 @@ var _ckyStyles = {"css":".cky-overlay{background: #000000; opacity: 0.4; positio
 						</div>
 						<div class="col-lg-4 col-12 d-lg-flex justify-content-lg-end">
 							<div class="developer">
-								<a href="http://redstone.media/" target="_blank">
-									<span>Розробка сайтів</span> <img src="https://smile-dental-club.xyz/wp-content/themes/parodent/assets/img/redstone.svg" alt="REDSTONE" width="80" height="11">
+								<a href="https://alex.rv.ua/" target="_blank">
+									<span>Розробка сайтів</span> <img src="https://smile-dental-club.xyz/wp-content/themes/parodent/assets/img/ALEX.svg" alt="ALEX" width="80" height="11">
 								</a>
 							</div>
 						</div>
